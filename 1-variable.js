@@ -10,4 +10,4 @@ console.log(b);
 console.log(c);
 
 console.console.log("git deneme");
-console.console.log("git deneme22");
+console.console.log("git deneme22vv");
